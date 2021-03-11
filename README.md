@@ -1,0 +1,2 @@
+# Brock-University-DS-Lab-Text-Analysis-with-Python
+Introduction to Python! Welcome to the Digital Scholarship Lab introduction to Python class. By the end of today we'll know all about the following;  variables math conditional loops functions We'll also do some basic text analysis (if time allows)  We'll use the Zoom's chat feature to interact.  Be sure to enable line numbers by looking for the 'gear' icon and checking the box in the 'Editor' panel.
